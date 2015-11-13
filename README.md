@@ -16,7 +16,7 @@ I do the following things in the project:
 
 1、download .zip file in asynctask
 
-2、unzip .zip file in aynctask
+2、unzip .zip file in asynctask
 
 3、notify the ui to show data
 
