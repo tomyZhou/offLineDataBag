@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dip"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/iv_news_image"
+        android:layout_width="80dip"
+        android:layout_height="50dip"
+        android:background="#f2f2f2"
+        android:layout_margin="10dip"
+        android:padding="5dip" />
+
+    <TextView
+        android:id="@+id/tv_news_content"
+        android:layout_width="wrap_content"
+        android:layout_height="50dip"
+        android:layout_margin="10dip"
+        android:text="我是新闻我是新闻我是新闻我是新闻" />
+
+</LinearLayout>
