@@ -19,5 +19,5 @@ in order  to keep fluent ui ,I use service to do the background work.
 tip: as well as we also used fastjson to compile the json,and picasso to load the image file.
 
 the screenshot:
-![image]()
+![image](https://github.com/tomyZhou/offLineDataBag/blob/master/DownLoadDataBag/screenshot.png)
 
